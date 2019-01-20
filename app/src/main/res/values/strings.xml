@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">6 Step Helper</string>
+    <string name="test_title">Dit is een test titel</string>
+    <string name="icon_desc">Icon for guide title</string>
+    <string name="back_desc">Button to go back</string>
+    <string name="addGuideHint">Druk hier om te typen</string>
+
+    // Steps for each guide
+    <string name="step_1">Stap 1</string>
+    <string name="step_2">Stap 2</string>
+    <string name="step_3">Stap 3</string>
+    <string name="step_4">Stap 4</string>
+    <string name="step_5">Stap 5</string>
+    <string name="step_6">Stap 6</string>
+</resources>
